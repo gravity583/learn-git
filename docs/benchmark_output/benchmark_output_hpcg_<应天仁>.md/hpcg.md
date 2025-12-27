@@ -1,6 +1,7 @@
 sudo apt update
+#更新
 sudo apt install -y build-essential cmake git
-#配置编译环境
+#下载依赖
 wget https://codeload.github.com/hpcg-benchmark/hpcg/zip/refs/heads/master -O hpcg.zip
 #下载 HPCG 源码压缩包
 unzip hpcg.zip

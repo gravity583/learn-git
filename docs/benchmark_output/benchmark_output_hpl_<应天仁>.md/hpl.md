@@ -1,8 +1,9 @@
 cd hpl-2.3 
 #进入hpl-2.3目录
 sudo apt-get update
+#更新
 sudo apt-get install gcc gfortran make libopenblas-dev
-#配置编译环境
+#下载依赖
 cp setup/Make.Linux_PII_CBLAS
 #复制配置文件
 nano Make.Linux_OpenBLAS_MPICH

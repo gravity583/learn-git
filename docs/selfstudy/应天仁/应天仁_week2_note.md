@@ -15,6 +15,7 @@ Gflops(Performance Metrics)
 #The difference between HPCG and HPL
 HPL is used to show the maximum speed of the computer's computational performance under
 ideal conditions. But HPCG​ shows the practical speed​ under real-world constraints.
+
 The HPCG Efficiency​ (HPCG Gflops/HPL Gflops) is a percentage that shows how much of the 
 computer's top speed it can actually use for real work. A high percentage means it's 
 efficient in practice.
